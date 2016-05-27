@@ -1,0 +1,2 @@
+add_lunch_combo omni_hydrogen-userdebug
+add_lunch_combo omni_hydrogen-eng
